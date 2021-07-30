@@ -1,4 +1,6 @@
-package singleton.przyklad;
+package singleton.wersjaklasyczna;
+
+import singleton.wersjaklasyczna.GameEngine;
 
 public class Main {
     public static void main(String[] args) {

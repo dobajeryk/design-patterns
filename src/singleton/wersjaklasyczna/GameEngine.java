@@ -1,4 +1,4 @@
-package singleton.przyklad;
+package singleton.wersjaklasyczna;
 
 import java.io.Serializable;
 

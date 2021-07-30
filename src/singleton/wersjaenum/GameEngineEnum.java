@@ -1,4 +1,4 @@
-package singleton.przyklad;
+package singleton.wersjaenum;
 
 public enum GameEngineEnum {
 
